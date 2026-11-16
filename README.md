@@ -26,7 +26,7 @@ Further styles: glass, frosted, cartoon, surface and ASCII.
 - **Per chain.** Each chain can have its own style and mode.
 - **Local.** Files you open stay in your browser. Fetching by PDB ID is an explicit button and
   goes to files.rcsb.org.
-- **Export.** White-background PNG up to 4K.
+- **Export.** PNG up to 4K, with a white background or a transparent background (**More → Picture**).
 
 ## Run
 
